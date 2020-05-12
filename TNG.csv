@@ -1,12 +1,12 @@
 number_overall,number_in_season,season,title,essential_watching,quality_wbm,favourite_wbm,comments_wbm,broadcast_date,stardate,directors,writers
 1,1,1,"Encounter at Farpoint, Part I",yes,meh,,,1987-09-28,41153.7,Corey Allen,D. C. Fontana and Gene Roddenberry
 2,2,1,"Encounter at Farpoint, Part II",yes,meh,,,1987-09-28,41153.7,Corey Allen,D. C. Fontana and Gene Roddenberry
-3,3,1,The Naked Now,maybe,meh,,,1987-10-05,41209.2,Paul Lynch,Story by: John D. F. Black and D. C. Fontana[a] Teleplay by: D. C. Fontana[a]
-4,4,1,Code of Honor,maybe,bad,,"very dated, bit problematic, a poor remake of TOS “Amok Time”",1987-10-12,41235.25,Russ Mayberry,Katharyn Powers and Michael Baron
+3,3,1,The Naked Now,maybe,meh,,It seems the actors are having fun at least,1987-10-05,41209.2,Paul Lynch,Story by: John D. F. Black and D. C. Fontana[a] Teleplay by: D. C. Fontana[a]
+4,4,1,Code of Honor,maybe,bad,,"very dated, bit problematic, a poor remake of TOS “Amok Time” (which is better)",1987-10-12,41235.25,Russ Mayberry,Katharyn Powers and Michael Baron
 5,5,1,The Last Outpost,maybe,ok,,,1987-10-19,41386.4,Richard Colla,Story by: Richard Krzmeien Teleplay by: Herbert Wright
-6,6,1,Where No One Has Gone Before,,meh,,,1987-10-26,41263.1,Rob Bowman,Diane Duane and Michael Reaves
+6,6,1,Where No One Has Gone Before,maybe,meh,,,1987-10-26,41263.1,Rob Bowman,Diane Duane and Michael Reaves
 7,7,1,Lonely Among Us,maybe,meh,,,1987-11-02,41249.3,Cliff Bole,Story by: Michael Halperin Teleplay by: D. C. Fontana
-8,8,1,Justice,yes,so bad it’s good,,,1987-11-09,41255.6,James L. Conway,Story by: John D. F. Black[b] and Worley Thorne Teleplay by: Worley Thorne
+8,8,1,Justice,yes,so bad it’s good?,,"not terrible, also has some good TNG campness, perhaps is a reference to TOS “A Taste of Armageddon” (which is better)",1987-11-09,41255.6,James L. Conway,Story by: John D. F. Black[b] and Worley Thorne Teleplay by: Worley Thorne
 9,9,1,The Battle,yes,ok,,,1987-11-16,41723.9,Rob Bowman,Story by: Larry Forrester Teleplay by: Herbert Wright
 10,10,1,Hide and Q,yes,awful,,,1987-11-23,41590.5,Cliff Bole,Story by: Maurice Hurley[c] Teleplay by: Maurice Hurley[c] and Gene Roddenberry
 11,11,1,Haven,,meh,,,1987-11-30,41294.5,Richard Compton,Story by: Tracy Tormé and Lan O'Kun Teleplay by: Tracy Tormé
@@ -14,7 +14,7 @@ number_overall,number_in_season,season,title,essential_watching,quality_wbm,favo
 13,13,1,Datalore,yes,good,,,1988-01-18,41242.4,Rob Bowman,Story by: Robert Lewin and Maurice Hurley Teleplay by: Robert Lewin and Gene Roddenberry
 14,14,1,Angel One,,,,,1988-01-25,41636.9,Michael Rhoades,Patrick Barry
 15,15,1,11001001,yes,good,yes,mildly toughes on agender,1988-02-01,41365.9,Paul Lynch,Maurice Hurley and Robert Lewin
-16,16,1,Too Short a Season,,bad,,,1988-02-08,41309.5,Rob Bowman,Story by: Michael Michaelian Teleplay by: Michael Michaelian and D. C. Fontana
+16,16,1,Too Short a Season,no,bad,,,1988-02-08,41309.5,Rob Bowman,Story by: Michael Michaelian Teleplay by: Michael Michaelian and D. C. Fontana
 17,17,1,When the Bough Breaks,,,,,1988-02-15,41509.1,Kim Manners,Hannah Louise Shearer
 18,18,1,Home Soil,yes,ok,,"basically a remake of the TOS episode The Devil in the Dark, which is better",1988-02-22,41463.9,Corey Allen,Story by: Karl Geurs & Ralph Sanchez and Robert Sabaroff Teleplay by: Robert Sabaroff
 19,19,1,Coming of Age,,,,,1988-03-14,41416.2,Mike Vejar,Sandy Fries
@@ -46,7 +46,7 @@ number_overall,number_in_season,season,title,essential_watching,quality_wbm,favo
 45,19,2,Manhunt,,meh,,,1989-06-19,42859.2,Rob Bowman,Tracy Tormé[b]
 46,20,2,The Emissary,maybe,ok,,,1989-06-26,42901.3,Cliff Bole,Story by: Richard Manning & Hans Beimler and Thomas H. Calder Teleplay by: Richard Manning & Hans Beimler
 47,21,2,Peak Performance,yes,excellent,yes,,1989-07-10,42923.4,Robert Scheerer,David Kemper
-48,22,2,Shades of Gray,no,awful,,,1989-07-17,42976.1,Rob Bowman,Story by: Maurice Hurley Teleplay by: Maurice Hurley and Richard Manning & Hans Beimler
+48,22,2,Shades of Gray,no,bad,,clip show,1989-07-17,42976.1,Rob Bowman,Story by: Maurice Hurley Teleplay by: Maurice Hurley and Richard Manning & Hans Beimler
 50,1,3,Evolution,yes,meh,yes,,1989-09-25,43125.8,Winrich Kolbe,Story by: Michael Piller & Michael Wagner Teleplay by: Michael Piller
 49,2,3,The Ensigns of Command,yes,excellent,yes,just decent TNG,1989-10-02,43133.3,Cliff Bole,Melinda M. Snodgrass
 51,3,3,The Survivors,,ok,,,1989-10-09,43152.4,Les Landau,Michael Wagner
@@ -93,9 +93,9 @@ number_overall,number_in_season,season,title,essential_watching,quality_wbm,favo
 92,18,4,Identity Crisis,yes,good,,,1991-03-25,44664.5,Winrich Kolbe,Story by: Timothy DeHaas Teleplay by: Brannon Braga
 93,19,4,The Nth Degree,yes,good,,,1991-04-01,44704.2,Robert Legato,Joe Menosky
 94,20,4,Qpid,no,good,,"Q, Picard love life, goofy, the cast having a bit of fun",1991-04-22,44741.9,Cliff Bole,Story by: Randee Russell and Ira Steven Behr Teleplay by: Ira Steven Behr
-95,21,4,The Drumhead,yes,excellent,yes,,1991-04-29,44769.2,Jonathan Frakes,Jeri Taylor
+95,21,4,The Drumhead,yes,excellent,yes,"made as a cost-cutting exercise, pretty well-written, comments on totalitarianism and the “nothing to hide, nothing to fear” fallicy",1991-04-29,44769.2,Jonathan Frakes,Jeri Taylor
 96,22,4,Half a Life,yes,excellent,yes,"thoughtful, comments on ageism, neoliberalism, euthanasia, love [spoilers: Logan’s Run]",1991-05-06,44805.3,Les Landau,Story by: Ted Roberts and Peter Allan Fields Teleplay by: Peter Allan Fields
-97,23,4,The Host,,meh,,,1991-05-13,44821.3,Marvin V. Rush,Michel Horvat
+97,23,4,The Host,yes,good,,trans issues,1991-05-13,44821.3,Marvin V. Rush,Michel Horvat
 98,24,4,The Mind's Eye,yes,good,,"mystery, [spoilers: Manchurian Candidate]",1991-05-27,44885.5,David Livingston,Story by: Ken Schafer and René Echevarria Teleplay by: René Echevarria
 99,25,4,In Theory,yes,good,,fun little Data episode,1991-06-03,44932.3,Patrick Stewart,Joe Menosky and Ronald D. Moore
 100,26,4,"Redemption, Part I",yes,meh,,"worth watching, if you like Klingons",1991-06-17,44995.3,Cliff Bole,Ronald D. Moore
@@ -111,23 +111,23 @@ number_overall,number_in_season,season,title,essential_watching,quality_wbm,favo
 110,10,5,New Ground,,meh,,,1992-01-06,45376.3,Robert Scheerer,Story by: Sara Charno and Stuart CharnoTeleplay by: Grant Rosenberg
 111,11,5,Hero Worship,yes,good,,,1992-01-27,45397.3,Patrick Stewart,Story by: Hilary J. BaderTeleplay by: Joe Menosky
 112,12,5,Violations,no,excellent,,,1992-02-03,45429.3,Robert Wiemer,Story by: Shari Goodhartz and T. Michael and Pamela GrayTeleplay by: Pamela Gray and Jeri Taylor
-113,13,5,The Masterpiece Society,,,,,1992-02-10,45470.1,Winrich Kolbe,Story by: James Kahn and Adam BelanoffTeleplay by: Adam Belanoff and Michael Piller
+113,13,5,The Masterpiece Society,,ok,,"eugenics, nice commentary on the benefits of disability",1992-02-10,45470.1,Winrich Kolbe,Story by: James Kahn and Adam BelanoffTeleplay by: Adam Belanoff and Michael Piller
 114,14,5,Conundrum,yes,excellent,yes,,1992-02-17,45494.2,Les Landau,Story by: Paul SchifferTeleplay by: Barry Schkolnick
-115,15,5,Power Play,,,,,1992-02-24,45571.2,David Livingston,Story by: Paul Ruben and Maurice HurleyTeleplay by: René Balcer and Herbert Wright & Brannon Braga
-116,16,5,Ethics,,,,,1992-03-02,45587.3,Chip Chalmers,Story by: Sara Charno & Stuart CharnoTeleplay by: Ronald D. Moore
+115,15,5,Power Play,,good,,,1992-02-24,45571.2,David Livingston,Story by: Paul Ruben and Maurice HurleyTeleplay by: René Balcer and Herbert Wright & Brannon Braga
+116,16,5,Ethics,yes,,good,medical ethics,1992-03-02,45587.3,Chip Chalmers,Story by: Sara Charno & Stuart CharnoTeleplay by: Ronald D. Moore
 117,17,5,The Outcast,yes,excellent,yes,"mostly an allegory for gay rights, touches on agender",1992-03-16,45614.6,Robert Scheerer,Jeri Taylor
 118,18,5,Cause and Effect,yes,excellent,yes,,1992-03-23,45652.1,Jonathan Frakes,Brannon Braga
 119,19,5,The First Duty,yes,good,,"worth watching, but not because it’s Star Trek (also gives spiritual preparation for Star Trek: Voyager, if desired)",1992-03-30,45703.9,Paul Lynch,Ronald D. Moore & Naren Shankar
-120,20,5,Cost of Living,,,,,1992-04-20,45733.6,Winrich Kolbe,Peter Allan Fields
+120,20,5,Cost of Living,yes,good,,sympathetic,1992-04-20,45733.6,Winrich Kolbe,Peter Allan Fields
 121,21,5,The Perfect Mate,,,,,1992-04-27,45761.3,Cliff Bole,Story by: René Echevarria and Gary PerconteTeleplay by: Gary Perconte and Michael Piller
-122,22,5,Imaginary Friend,,,,,1992-05-04,45852.1,Gabrielle Beaumont,Story by: Jean Louise Matthias & Ronald Wilkerson and Richard FliegelTeleplay by: Edithe Swensen and Brannon Braga
+122,22,5,Imaginary Friend,,ok,,,1992-05-04,45852.1,Gabrielle Beaumont,Story by: Jean Louise Matthias & Ronald Wilkerson and Richard FliegelTeleplay by: Edithe Swensen and Brannon Braga
 123,23,5,"I, Borg",yes,good,,,1992-05-11,45854.2,Robert Lederman,René Echevarria
 124,24,5,The Next Phase,yes,excellent,yes,,1992-05-18,45892.4,David Carson,Ronald D. Moore
 125,25,5,The Inner Light,yes,excellent,yes,good as allegory and as sci-fi,1992-06-01,45944.1,Peter Lauritson,Story by: Morgan GendelTeleplay by: Morgan Gendel and Peter Allan Fields
 126,26,5,"Time's Arrow, Part I",yes,excellent,yes,,1992-06-15,45959.1,Les Landau,Story by: Joe MenoskyTeleplay by: Joe Menosky and Michael Piller
 127,1,6,"Time's Arrow, Part II",yes,excellent,yes,,1992-09-21,46001.3,Les Landau,Story by: Joe MenoskyTeleplay by: Jeri Taylor
 128,2,6,Realm of Fear,yes,good,,,1992-09-28,46041.1,Cliff Bole,Brannon Braga
-129,3,6,Man of the People,,,,,1992-10-05,46071.6,Winrich Kolbe,Frank Abatemarco
+129,3,6,Man of the People,,ok,,creepy,1992-10-05,46071.6,Winrich Kolbe,Frank Abatemarco
 130,4,6,Relics,yes,good,yes,,1992-10-12,46125.3,Alexander Singer,Ronald D. Moore
 131,5,6,Schisms,,,,,1992-10-19,46154.2,Robert Wiemer,Story by: Jean Louise Matthias & Ronald WilkersonTeleplay by: Brannon Braga
 132,6,6,True Q,no,meh,,,1992-10-26,46192.3,Robert Scheerer,René Echevarria
@@ -145,35 +145,35 @@ number_overall,number_in_season,season,title,essential_watching,quality_wbm,favo
 144,18,6,Starship Mine,yes,good,,basically “Die Hard”,1993-03-29,46682.4,Cliff Bole,Morgan Gendel
 145,19,6,Lessons,yes,good,,,1993-04-05,46693.1,Robert Wiemer,Ronald Wilkerson & Jean Louise Matthias
 146,20,6,The Chase,yes,excellent,,,1993-04-26,46731.5,Jonathan Frakes,Story by: Ronald D. Moore & Joe MenoskyTeleplay by: Joe Menosky
-147,21,6,Frame of Mind,yes,good,,sorta Philip K. Dick,1993-05-03,46778.1,James L. Conway,Brannon Braga
+147,21,6,Frame of Mind,yes,good,,"sorta Philip K. Dick, psychological horror",1993-05-03,46778.1,James L. Conway,Brannon Braga
 148,22,6,Suspicions,,,,,1993-05-10,46830.1,Cliff Bole,Joe Menosky and Naren Shankar
 149,23,6,Rightful Heir,yes,good,,,1993-05-17,46852.2,Winrich Kolbe,Story by: James E. BrooksTeleplay by: Ronald D. Moore
 150,24,6,Second Chances,yes,excellent,,,1993-05-24,46915.2,LeVar Burton,Story by: Michael A. MedlockTeleplay by: René Echevarria
 151,25,6,Timescape,yes,excellent,,,1993-06-14,46944.2,Adam Nimoy,Brannon Braga
 152,26,6,"Descent, Part I",yes,excellent,,essential Borg,1993-06-21,46982.1,Alexander Singer,Story by: Jeri TaylorTeleplay by: Ronald D. Moore
 153,1,7,"Descent, Part II",yes,excellent,,essential Borg,1993-09-20,47025.4,Alexander Singer,René Echevarria
-154,2,7,Liaisons,,,,,1993-09-27,unknown,Cliff Bole,Story by: Roger Eschbacher & Jaq GreensponTeleplay by: Jeanne Carrigan-Fauci & Lisa Rich
+154,2,7,Liaisons,,good,,,1993-09-27,unknown,Cliff Bole,Story by: Roger Eschbacher & Jaq GreensponTeleplay by: Jeanne Carrigan-Fauci & Lisa Rich
 155,3,7,Interface,yes,excellent,yes,"a story about loss, with nice sci-fi cyborg out-of-body experiences",1993-10-04,47215.5,Robert Wiemer,Joe Menosky
-156,4,7,"Gambit, Part I",maybe,ok,,,1993-10-11,47135.2,Peter Lauritson,Story by: Christopher Hatton and Naren ShankarTeleplay by: Naren Shankar
-157,5,7,"Gambit, Part II",maybe,ok,,,1993-10-18,47160.1,Alexander Singer,Story by: Naren ShankarTeleplay by: Ronald D. Moore
+156,4,7,"Gambit, Part I",maybe,good,,,1993-10-11,47135.2,Peter Lauritson,Story by: Christopher Hatton and Naren ShankarTeleplay by: Naren Shankar
+157,5,7,"Gambit, Part II",maybe,good,,,1993-10-18,47160.1,Alexander Singer,Story by: Naren ShankarTeleplay by: Ronald D. Moore
 158,6,7,Phantasms,yes,excellent,yes,essential Data,1993-10-25,47225.7,Patrick Stewart,Brannon Braga
-159,7,7,Dark Page,,,,,1993-11-01,47254.1,Les Landau,Hilary J. Bader
-160,8,7,Attached,,,,,1993-11-08,47304.2,Jonathan Frakes,Nick Sagan[a]
+159,7,7,Dark Page,,good,,"sad, kinda touching",1993-11-01,47254.1,Les Landau,Hilary J. Bader
+160,8,7,Attached,,good,,nice character development,1993-11-08,47304.2,Jonathan Frakes,Nick Sagan[a]
 161,9,7,Force of Nature,yes,excellent,,"worth watching, if you like commentary on climate change, Extinction Rebellion etc.",1993-11-15,47310.2,Robert Lederman,Naren Shankar
 162,10,7,Inheritance,maybe,ok,,,1993-11-22,47410.2,Robert Scheerer,Story by: Dan KoeppelTeleplay by: Dan Koeppel and René Echevarria
 163,11,7,Parallels,,good,,"good Worf episode, good sci-fi on [spoilers] parallel universes",1993-11-29,47391.2,Robert Wiemer,Brannon Braga
 164,12,7,The Pegasus,yes,excellent,,,1994-01-10,47457.1,LeVar Burton,Ronald D. Moore
 165,13,7,Homeward,,,,,1994-01-17,47423.9,Alexander Singer,Story by: Spike SteingasserTeleplay by: Naren Shankar
-166,14,7,Sub Rosa,no,so bad it’s good?,,,1994-01-31,unknown,Jonathan Frakes,Story by: Jeri TaylorTeleplay by: Brannon Braga
+166,14,7,Sub Rosa,no,so bad it’s good?,,absurd Scottish ghost story,1994-01-31,unknown,Jonathan Frakes,Story by: Jeri TaylorTeleplay by: Brannon Braga
 167,15,7,Lower Decks,yes,excellent,,,1994-02-07,47566.7,Gabrielle Beaumont,Story by: Ronald Wilkerson & Jean Louise MatthiasTeleplay by: René Echevarria
 168,16,7,Thine Own Self,yes,excellent,yes,,1994-02-14,47611.2,Winrich Kolbe,Story by: Christopher HattonTeleplay by: Ronald D. Moore
 169,17,7,Masks,no,meh,,"written during writers’ strike, but still someway decent acting, goofy as hell",1994-02-21,47615.2–47618.4,Robert Wiemer,Joe Menosky
-170,18,7,Eye of the Beholder,maybe,good,,,1994-02-28,47622.1,Cliff Bole,Story by: Brannon BragaTeleplay by: René Echevarria
+170,18,7,Eye of the Beholder,maybe,good,,creepy,1994-02-28,47622.1,Cliff Bole,Story by: Brannon BragaTeleplay by: René Echevarria
 171,19,7,Genesis,no,so bad it’s good?,,,1994-03-21,47653.2,Gates McFadden,Brannon Braga
-172,20,7,Journey's End,,,,,1994-03-28,47751.2,Corey Allen,Ronald D. Moore
-173,21,7,Firstborn,,,,,1994-04-25,47779.4,Jonathan West,Story by: Mark KalbfeldTeleplay by: René Echevarria
+172,20,7,Journey's End,,ok,,,1994-03-28,47751.2,Corey Allen,Ronald D. Moore
+173,21,7,Firstborn,,meh,,,1994-04-25,47779.4,Jonathan West,Story by: Mark KalbfeldTeleplay by: René Echevarria
 174,22,7,Bloodlines,,,,,1994-05-02,47829.1,Les Landau,Nick Sagan[a]
 175,23,7,Emergence,yes,excellent,,"worth watching, but not because it’s Star Trek",1994-05-09,47869.2,Cliff Bole,Story by: Brannon BragaTeleplay by: Joe Menosky
-176,24,7,Preemptive Strike,,,,,1994-05-16,47941.7,Patrick Stewart,Story by: Naren ShankarTeleplay by: René Echevarria
+176,24,7,Preemptive Strike,maybe,good,,,1994-05-16,47941.7,Patrick Stewart,Story by: Naren ShankarTeleplay by: René Echevarria
 177,25,7,All Good Things… Part I,yes,good,,,1994-05-23,47988,Winrich Kolbe,Ronald D. Moore & Brannon Braga
 178,26,7,All Good Things… Part II,yes,good,,,1994-05-23,47988,Winrich Kolbe,Ronald D. Moore & Brannon Braga
